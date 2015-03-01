@@ -10,7 +10,7 @@ After Effects scripts and expressions
 
 ## Scripts
 
-### export_position_data
+### export_position_data.js
 - export shapes positions data to JSON file
 
 
